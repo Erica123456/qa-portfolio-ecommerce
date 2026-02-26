@@ -59,8 +59,22 @@ Usuário cadastrado com sucesso e redirecionado para página inicial.
 - Playwright (helper)
 - Page Object Pattern
 
-Instalação
+Estrutura da Automação:
+- Separação por Pages
+- Testes organizados por funcionalidade
+- Reutilização de métodos
+- Código limpo e legível
 
-```bash
-npm install
-npx codeceptjs run
+Diferenciais do Projeto:
+
+- Documentação estruturada
+- Testes manuais rastreáveis
+- Automação baseada nos casos manuais
+- Padrão Page Object
+- Preparado para CI/CD
+
+
+
+
+
+
