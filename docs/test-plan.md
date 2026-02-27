@@ -8,22 +8,22 @@ Plano de Testes
 
 2. Escopo
 - Funcionalidades a serem testadas:
-- [Funcionalidade 1]
-- [Funcionalidade 2]
-- [Funcionalidade 3]
-- Funcionalidades fora do escopo:
-- [Funcionalidade não testada]
+[Funcionalidade 1]
+[Funcionalidade 2]
+[Funcionalidade 3]
+Funcionalidades fora do escopo:
+[Funcionalidade não testada]
 
 3. Estratégia de Testes
 - Tipos de testes planejados:
-- Testes funcionais
-- Testes de regressão
-- Testes de integração
-- Testes de usabilidade
-- Testes de performance
+Testes funcionais
+Testes de regressão
+Testes de integração
+Testes de usabilidade
+Testes de performance
 - Abordagem:
-- Manual / Automatizado
-- Ferramentas utilizadas: [Ex.: Selenium, JUnit, Postman]
+Manual / Automatizado
+Ferramentas utilizadas: [Ex.: Selenium, JUnit, Postman]
 
 
 4. Ambiente de Testes
