@@ -17,7 +17,7 @@
 - Severidade (S): P × I
 
 3. Registro de Riscos
-< Acessar arquivo Tabela de Riscos.xlsx ao lado esquerdo em
+Acessar na hieraquia à esquerda: docs>risk-analysis.md>  
 
 4. Plano de Ação
 - Revisão quinzenal dos riscos em reuniões de QA.
