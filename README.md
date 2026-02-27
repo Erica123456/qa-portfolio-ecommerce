@@ -79,6 +79,20 @@ Instalação:
 - npm install
 - npx codeceptjs run
 
+👩‍💻 Sobre mim
+
+- Analista de Qualidade de Software desde 2006, com ampla experiência em grandes empresas.
+
+Especialidades:
+
+- Planejamento estratégico e execução de testes manuais e exploratórios
+- Automação E2E com foco em fluxos críticos
+- Estruturação de casos de teste claros e rastreáveis
+- Gestão de defeitos e melhoria contínua de processos
+- Perfil analítico e orientado à qualidade, com foco em entregas confiáveis e processos escaláveis.
+
+🔗 LinkedIn: (seu link)
+
 
 
 
