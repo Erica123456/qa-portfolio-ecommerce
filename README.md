@@ -75,9 +75,9 @@ Diferenciais do Projeto:
 
 Instalação:
 
-git bash
-npm install
-npx codeceptjs run
+- git bash
+- npm install
+- npx codeceptjs run
 
 
 
