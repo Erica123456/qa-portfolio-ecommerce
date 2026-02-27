@@ -17,7 +17,7 @@
 - Severidade (S): P × I
 
 3. Registro de Riscos
-O arquivo de análise de riscos estão disponíveis em: - [Tabela de Riscos.xlsx](./docs/risk-analysis/Tabela%20de%20Riscos.xlsx) na hierarquia ao lado.
+O arquivo de análise de riscos está disponível na Tabela de Riscos na hierarquia ao lado.
 
 5. Plano de Ação
 - Revisão quinzenal dos riscos em reuniões de QA.
