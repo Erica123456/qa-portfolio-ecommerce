@@ -17,9 +17,13 @@
 - Severidade (S): P × I
 
 3. Registro de Riscos
+O arquivo de análise de riscos estão disponíveis na pasta [docs/risk-analysis](./docs/risk-analysis).
+
+- [risk-analysis.md](./docs/risk-analysis/risk-analysis.md)
+- [Tabela de Riscos.xlsx](./docs/risk-analysis/Tabela%20de%20Riscos.xlsx)
 Acessar na hieraquia à esquerda: docs>risk-analysis.md>  
 
-4. Plano de Ação
+5. Plano de Ação
 - Revisão quinzenal dos riscos em reuniões de QA.
 - Atualização do status dos riscos (Aberto, Mitigado, Encerrado).
 - Escalonamento imediato de riscos críticos para gestão do projeto.
