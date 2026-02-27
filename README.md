@@ -1,4 +1,4 @@
-# Projeto 1 - QA Manual e Automação com CodeceptJS
+# Projeto 1 - QA Manual e Automação com Playwright CodeceptJS
 
  📌 Objetivo
 
