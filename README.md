@@ -73,7 +73,11 @@ Diferenciais do Projeto:
 - Padrão Page Object
 - Preparado para CI/CD
 
+Instalação:
 
+git bash
+npm install
+npx codeceptjs run
 
 
 
